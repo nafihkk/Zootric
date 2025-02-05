@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"link": "https://www.instagram.com/nafih____kk/",
+		"icon": "fab fa-instagram",
+		"name": "Instagram"
+	},
+	{
+		"id": 2,
+		"link": "https://www.facebook.com/muhammad.nafih.92/",
+		"icon": "fab fa-facebook-square",
+		"name": "Facebook"
+	},
+	{
+		"id": 3,
+		"link": "https://www.linkedin.com/in/muhammad-nafih-k-k-184135323/",
+		"icon": "fab fa-linkedin",
+		"name": "Linkedin"
+	}
+]
