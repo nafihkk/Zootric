@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link } from "react-router-dom/cjs/react-router-dom.min";
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
