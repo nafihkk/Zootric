@@ -1,9 +1,0 @@
-extends: [
-    "plugin:react/recommended"
-  ],
-  settings: {
-    react: {
-      version: "detect"
-    }
-  }
-  
