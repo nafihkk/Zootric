@@ -1,7 +1,7 @@
 {
-	"homepage": "https://github.com/nafihkk/Zootric-Webpage-Reac-tJS",
-	"name": "zootric",
-	"description": "Zootric Website Created Using React With Hight Level Of Preformance",
+	"homepage": "https://Kmg11.github.io/Agency/",
+	"name": "agency",
+	"description": "Agency Website Created Using React With Hight Level Of Preformance",
 	"keywords": [
 		"Agency",
 		"React",
@@ -16,15 +16,13 @@
 		"@testing-library/jest-dom": "^5.11.10",
 		"@testing-library/react": "^11.2.6",
 		"@testing-library/user-event": "^12.8.3",
-		"await": "^0.2.6",
-		"axios": "^1.7.9",
-		"bootstrap": "^5.3.3",
-		"react": "^19.0.0",
-		"react-anchor-link-smooth-scroll": "^1.0.12",
-		"react-dom": "^19.0.0",
-		"react-router-dom": "^5.3.4",
-		"react-scripts": "^5.0.1",
-		"swiper": "^6.8.4",
+		"axios": "^0.21.1",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"react-router-dom": "^5.2.0",
+		"react-scripts": "^4.0.3",
+		"sass": "^1.32.13",
+		"swiper": "^6.6.2",
 		"web-vitals": "^1.1.1"
 	},
 	"scripts": {
@@ -54,7 +52,6 @@
 		]
 	},
 	"devDependencies": {
-		"gh-pages": "^6.3.0",
-		"sass": "^1.84.0"
+		"gh-pages": "^3.2.0"
 	}
 }

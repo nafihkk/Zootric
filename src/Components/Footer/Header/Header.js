@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 // Main Footer Header Sass File
 import "./Header.scss";

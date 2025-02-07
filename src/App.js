@@ -22,7 +22,7 @@ function App() {
 		<DarkThemeProvider>
 			<Router>
 				<Navbar />
-				<Buttons/>
+				<Buttons />
 
 				<Switch>
 					<Route exact path={`${process.env.PUBLIC_URL}/`} component={Index} />

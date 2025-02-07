@@ -5,7 +5,7 @@ import Services from "./../Services/Index";
 import About from "./../About/Index";
 import Portfolio from "./../Portfolio/Index";
 import Team from "./../Team/Index";
-// import Newsletter from "./../Newsletter/Index";
+import Newsletter from "./../Newsletter/Index";
 import Contact from "./../Contact/Index";
 import Footer from "./../Footer/Index";
 
@@ -17,7 +17,7 @@ const Index = () => {
 			<About />
 			<Portfolio />
 			<Team />
-			{/* <Newsletter /> */}
+			<Newsletter />
 			<Contact />
 			<Footer />
 		</Fragment>
