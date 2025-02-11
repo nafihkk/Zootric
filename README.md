@@ -8,7 +8,7 @@ Responsive SPA website with high level of performance, simple design, using Reac
 
 ### Links
 
-- [Github](https://github.com/Kmg11/Agency "Github Repo")
+- [Github](https://github.com/nafihkk/Zootric "Github Repo")
 - [Live](https://kmg11.github.io/Agency/ "Live Preview")
 
 ---
