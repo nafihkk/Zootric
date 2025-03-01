@@ -1,20 +1,20 @@
 [
 	{
 		"id": 1,
-		"link": "https://www.instagram.com/kirolosmahfouz/",
 		"icon": "fab fa-instagram",
+		"link": "https://www.instagram.com/nafih____kk/",
 		"name": "Instagram"
 	},
 	{
 		"id": 2,
-		"link": "https://www.facebook.com/KirolosMahfouz/",
 		"icon": "fab fa-facebook-square",
+		"link": "https://www.facebook.com/muhammad.nafih.92/",
 		"name": "Facebook"
 	},
 	{
 		"id": 3,
-		"link": "https://twitter.com/KirolosMahfouz1",
-		"icon": "fab fa-twitter",
-		"name": "Twitter"
+		"link": "https://www.linkedin.com/in/muhammad-nafih-k-k-184135323/",
+		"icon": "fab fa-linkedin",
+		"name": "Linkedin"
 	}
 ]

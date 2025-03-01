@@ -66,7 +66,7 @@ Responsive SPA website with high level of performance, simple design, using Reac
   npm run start
 ```
 
-- Add / in the last of url => [http://localhost:3000/Zootric/](http://localhost:3000/Zootric/)
+- Add / in the last of url => [http://localhost:3000](http://localhost:3000)
 
 ---
 

@@ -13,6 +13,7 @@
 	display: block;
 	position: relative;
 	user-select: none;
+	block-size: 35px;
 }
 
 // Logo Text Mixin
@@ -21,4 +22,5 @@
 	font-size: 2rem;
 	color: $third-color;
 	user-select: none;
+	padding-left: 6px;
 }
